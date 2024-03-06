@@ -1,0 +1,13 @@
+{
+  "name": "@melihc/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@melihc",
+  "repository": "https://github.com/melihc/tea-xyz-quest.git",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.2.2",
+    "react-dom": "^17.0.2"
+  }
+}
